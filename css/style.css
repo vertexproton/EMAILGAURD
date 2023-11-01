@@ -63,12 +63,12 @@ footer{
     border-radius: 6px;
     cursor: pointer;
 }
-@media only screen {
+@media only screen and (max-width: 600px){
     body{
         background-color: #E0E0E0;
     }
-    
 }
+
 
 .logo{
     padding: 6px;
